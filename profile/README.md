@@ -1,9 +1,13 @@
-# taudb
-
-**taudb** is the home of **τ (tau)** — an immutable, append-only, event-sourced temporal database written in Zig.
-This organisation contains the core database, supporting libraries, tooling, and experiments focused on building a principled temporal data system from first principles.
-
-
+```ascii
+  █████                        
+ ░░███                         
+ ███████    ██████   █████ ████
+░░░███░    ░░░░░███ ░░███ ░███ 
+  ░███      ███████  ░███ ░███ 
+  ░███ ███ ███░░███  ░███ ░███ 
+  ░░█████ ░░████████ ░░████████
+   ░░░░░   ░░░░░░░░   ░░░░░░░░ 
+```
 
 ## What is Tau?
 
